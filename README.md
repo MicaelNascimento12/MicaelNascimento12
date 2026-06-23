@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou Micael Nascimento 👋
 
-<!--
-**MicaelNascimento12/MicaelNascimento12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente atuo na área de Tecnologia da Informação, com experiência em suporte e infraestrutura de redes.
 
-Here are some ideas to get you started:
+Tenho interesse em Banco de Dados, Análise de Dados e Desenvolvimento Back-End, possuindo conhecimentos em MySQL, PostgreSQL, Power BI e Oracle Database, além de experiência com Python, APIs REST e modelagem de bancos de dados relacionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além da área de TI, também sou violinista, atividade que contribuiu para o desenvolvimento de disciplina, atenção aos detalhes e trabalho em equipe.
+
+---
+
+## Tecnologias
+
+- Python
+- SQL
+- MySQL
+- PostgreSQL
+- Oracle Database
+- Power BI
+- Java
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## Projetos em Destaque
+
+### FinControl
+Sistema de gestão financeira pessoal desenvolvido com FastAPI, MySQL, JWT e JavaScript.
+
+### MM3-Hoteis
+Sistema de gerenciamento de hospedagens desenvolvido em Java.
+
+### EMMC
+Sistema para gestão de alunos e controle administrativo de escola de música.
+
+---
+
+## Contato
+
+LinkedIn:
+www.linkedin.com/in/micael-nascimento-sousa
+
+Email:
+micael.nascimento9523@gmail.com
