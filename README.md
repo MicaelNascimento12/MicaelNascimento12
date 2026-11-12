@@ -1,6 +1,6 @@
 # Olá, eu sou Micael Nascimento 👋
 
-Atualmente atuo na área de Tecnologia da Informação, com experiência em suporte e infraestrutura de redes.
+Atualmente atuo na área de TI, com experiência em suporte e infraestrutura de redes.
 
 Tenho interesse em Banco de Dados, Análise de Dados e Desenvolvimento Back-End, possuindo conhecimentos em MySQL, PostgreSQL, Power BI e Oracle Database, além de experiência com Python, APIs REST e modelagem de bancos de dados relacionais.
 
